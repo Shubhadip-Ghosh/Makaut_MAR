@@ -1,0 +1,35 @@
+.head{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.m-h{
+    text-align: center;
+    color: tomato;
+    font-size: xx-large;
+    font-weight: 500;
+    font-family: Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bg-blue{
+    background-color: cornflowerblue;
+}
+.ycbtn{
+    background-color: deeppink;
+    height: 40px;
+    width: 100px!important;
+    border-radius: 8px;
+    margin-top: 15px;
+    border: none;
+    color: whitesmoke;
+}
+.m-b{
+    margin-bottom: 80px;
+}
+.c-sty{
+    height: 30rem;
+}
+.ct-sty{
+    height: 4.8rem;
+    overflow: hidden;
+}
